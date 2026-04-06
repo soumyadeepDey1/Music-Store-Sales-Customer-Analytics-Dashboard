@@ -58,14 +58,19 @@ The objective is to analyze revenue performance, customer behavior, and product 
 [View Dashboard](https://public.tableau.com/views/MusicStoreSalesCustomerAnalyticsDashboard/MusicTrendAnalysisInsightStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
-
+## DownLoad Datasets:
+[Datasets](DataSets/)
 
 ## 🧠 SQL Analysis
 
 ### SQL Schema
 ![Schema](SQL/MusicDatabaseSchema.png)
+### Download SQL Database:
+[Database](SQL/Music_Store_database.sql)
 
 The dataset was analyzed using PostgreSQL to answer key business questions.  
+### View Businesss Questions:
+![Questions](SQL/Music_Store_Analysis-Questions.pdf)
 Some important SQL techniques used:
 
 - **Joins** (Customer, Invoice, Invoice Line, Track, Genre, Artist)
