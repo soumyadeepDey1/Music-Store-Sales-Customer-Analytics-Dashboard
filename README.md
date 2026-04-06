@@ -31,17 +31,28 @@ The objective is to analyze revenue performance, customer behavior, and product 
 - Customer segmentation shows **48 Medium Value customers**, compared to only **7 High Value and 4 Low Value customers**, highlighting strong potential to convert mid-tier customers into high-value contributors.  
 
 ---
+## 📖 Key Insights (Story Highlights)
 
-## 📊 Dashboard Preview
+### Revenue Trend
+![Trend](dashboard/story-trend.png)
 
-![Dashboard](dashboard/dashboard.png)
+### Revenue by Country
+![Country](dashboard/story-country.png)
 
----
+### Top Genre
+![Genre](dashboard/story-genre.png)
 
+### Customer Segmentation
+![Segmentation](dashboard/story-segmentation.png)
 ## 📖 Interactive Dashboard
 
 👉 View on Tableau Public:  
 [View Dashboard](https://public.tableau.com/views/MusicStoreSalesCustomerAnalyticsDashboard/MusicTrendAnalysisInsightStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
