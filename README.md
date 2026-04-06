@@ -32,29 +32,33 @@ The objective is to analyze revenue performance, customer behavior, and product 
 
 ---
 ## 📖 Key Insights (Story Highlights)
-
+### KPIs
+![KPIs](Screensots/KPI_Overview.png)
 ### Revenue Trend
-![Trend](dashboard/story-trend.png)
-
+![Trend](Screensots/Revenue_Trend.png)
+### Top Customers
+![Customer](Screensots/Top_Customers.png)
 ### Revenue by Country
-![Country](dashboard/story-country.png)
-
+![Country](Screensots/Revenue_by_Country.png)
 ### Top Genre
-![Genre](dashboard/story-genre.png)
-
+![Genre](Screensots/Top_Genre.png)
+### Top Artist
+![Trend](Screensots/Top_Artists.png)
 ### Customer Segmentation
-![Segmentation](dashboard/story-segmentation.png)
-## 📖 Interactive Dashboard
+![Segmentation](Screensots/Customer_Segmentation.png)
 
+---
+## 📊 Dashboard Preview
+
+![Dashboard](Screensots/Dashboard.png)
+
+---
+## 📖 Interactive Dashboard
 👉 View on Tableau Public:  
 [View Dashboard](https://public.tableau.com/views/MusicStoreSalesCustomerAnalyticsDashboard/MusicTrendAnalysisInsightStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
-## 📊 Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
-
----
 
 ## 🧠 SQL Analysis
 
