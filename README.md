@@ -62,6 +62,9 @@ The objective is to analyze revenue performance, customer behavior, and product 
 
 ## 🧠 SQL Analysis
 
+### SQL Schema
+![Schema](SQL/MusicDatabaseSchema.png)
+
 The dataset was analyzed using PostgreSQL to answer key business questions.  
 Some important SQL techniques used:
 
@@ -82,3 +85,7 @@ JOIN invoice i ON c.customer_id = i.customer_id
 GROUP BY c.customer_id
 ORDER BY total_spent DESC
 LIMIT 10;
+```
+### SQL Query
+   [View Query](SQL/Music_Store_Project_SQL.sql)
+
