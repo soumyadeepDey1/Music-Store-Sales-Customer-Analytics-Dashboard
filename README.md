@@ -71,8 +71,8 @@ The objective is to analyze revenue performance, customer behavior, and product 
 The dataset was analyzed using PostgreSQL to answer key business questions.  
 ### View Businesss Questions:
 [Questions](SQL/Music_Store_Analysis-Questions.pdf)
-Some important SQL techniques used:
 
+### Some important SQL techniques used:
 - **Joins** (Customer, Invoice, Invoice Line, Track, Genre, Artist)
 - **Aggregation** (SUM, COUNT, AVG)
 - **Window Functions** (RANK, ROW_NUMBER)
